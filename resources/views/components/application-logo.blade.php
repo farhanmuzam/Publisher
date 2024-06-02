@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/logo.png') }}" alt="Logo of FJB" class="w-20">
